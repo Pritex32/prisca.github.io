@@ -22,7 +22,7 @@
 - KNN performed best, with a training score of 0.88 and a test score of 0.72.
 -	Tools used: Pandas,Python,Sklearn,Matplotlib, Seaborn
 
-![](/main/house%20trend%20pie.jpg)
+![](house trend.jpg)
 ![](https://github.com/Pritex32/prisca.github.io/blob/main/house%20trend%20pie.jpg)
 
 ## [Bank-Customer Prediction]( Pritex32/pritex_project (github.com))
