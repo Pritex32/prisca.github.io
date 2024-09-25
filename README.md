@@ -33,3 +33,14 @@ This dataset is about determining the customers who wants to leave the bank and 
 ![](https://github.com/Pritex32/prisca.github.io/blob/main/bank%20customer2.jpg)
 ![](https://github.com/Pritex32/prisca.github.io/blob/main/bank%20customer.jpg)
 
+# Education
+- Bachelor of Science                                                                             
+- GPA 3.5(Upper Division)
+- Faculty of Business Administration, department of Banking and Finance
+
+# Certification                                                                           
+- Deep learning course certificate (Udemy)
+- Data science and AI machine learning Course (Udemy)
+- Python (Udemy)
+
+
