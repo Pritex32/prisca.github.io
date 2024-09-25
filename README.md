@@ -1,4 +1,6 @@
-
+# hi,I'm Prisca!
+## Data Scientist
+##### 📧 oluomachiukanwa32@gmail.com   📱 +2347037567690 , 🇳🇬 lagos,nigeria ,🔗 https://www.linkedin.com/in/prisca-ukanwa-800a1117a/
 
 # Skills
 - Programming Languages: Python, SQL
@@ -30,7 +32,7 @@ This dataset is about determining the customers who wants to leave the bank and 
 -	The model helps the company take timely action, leading to a potential increase in customer retention by 15%.
 -	Tools: Python, Pandas, Scikit-Learn, Keras.
 
-![](https://github.com/Pritex32/prisca.github.io/blob/main/bank%20customer2.jpg)
+![](bank customer.jpg)
 ![](https://github.com/Pritex32/prisca.github.io/blob/main/bank%20customer.jpg)
 
 # Education
