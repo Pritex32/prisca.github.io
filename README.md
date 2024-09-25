@@ -1,6 +1,7 @@
 # hi,I'm Prisca!
 ## Data Scientist
-##### 📧 oluomachiukanwa32@gmail.com   📱 +2347037567690 , 🇳🇬 lagos,nigeria ,🔗 https://www.linkedin.com/in/prisca-ukanwa-800a1117a/
+##### 📧 oluomachiukanwa32@gmail.com   📱 +2347037567690 , 🇳🇬 lagos,nigeria 
+🔗 https://www.linkedin.com/in/prisca-ukanwa-800a1117a/
 
 # Skills
 - Programming Languages: Python, SQL
@@ -22,7 +23,7 @@
 -	Tools used: Pandas,Python,Sklearn,Matplotlib, Seaborn
 
 ![](/main/house%20trend%20pie.jpg)
-![](/house%20trend.jpg)
+![](https://github.com/Pritex32/prisca.github.io/blob/main/house%20trend%20pie.jpg)
 
 ## [Bank-Customer Prediction]( Pritex32/pritex_project (github.com))
 This dataset is about determining the customers who wants to leave the bank and those who does’nt. To solve this problem, I developed a model with ANN algorithm to be able to predict these customers before they leave the bank so that the company can take appropriate measures.
