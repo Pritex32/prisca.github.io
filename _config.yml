@@ -1,5 +1,10 @@
 title: Ukanwa Prisca Oluomachi
 logo: /assets/img/headshot_circle.png
-description: text below image
+description: I am data scientist with a passion of helping organizations 
+in decision-making, which enhances business growth, I leverage on minimizing 
+risks and with the help of disciplines like statistics and machine learning,
+I can extract meaningful insights from data and empowers businesses
+to maintain a competitive edge in their respective markets
 show_download: true
-theme: jekyll-theme-modernist
+theme: jekyll-theme-cayman
+show_image: true
