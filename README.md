@@ -31,5 +31,5 @@ This dataset is about determining the customers who wants to leave the bank and 
 -	Tools: Python, Pandas, Scikit-Learn, Keras.
 
 ![](https://github.com/Pritex32/prisca.github.io/blob/main/bank%20customer2.jpg)
-
+![](https://github.com/Pritex32/prisca.github.io/blob/main/bank%20customer.jpg)
 
