@@ -1,6 +1,6 @@
 
 
-# Skills:
+# Skills
 - Programming Languages: Python, SQL
 - Libraries : Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, 
 - Data Visualization: Matplotlib, Seaborn
