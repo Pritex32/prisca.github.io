@@ -54,6 +54,8 @@ health .
 - Library Used: Pandas,matplotlib,Seaborn,sklearn
 ![](https://github.com/Pritex32/lung-cancer-prediction/blob/main/cancer%20patient.png)
 
+![](https://github.com/Pritex32/lung-cancer-prediction/blob/main/cancer%20patient%202.png)
+
 
 ## Education
 - Bachelor of Science                                                                             
