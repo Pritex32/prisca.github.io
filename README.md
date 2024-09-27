@@ -23,8 +23,7 @@
 -	Tools used: Pandas,Python,Sklearn,Matplotlib, Seaborn
 
 
-![](https://github.com/Pritex32/prisca.github.io/blob/main/house%20trend%20pie.jpg)
-
+![](house trend pie.jpg)
 ## [Bank-Customer Prediction]( Pritex32/pritex_project (github.com))                                             Sep 13,2024
 This dataset is about determining the customers who wants to leave the bank and those who does’nt. To solve this problem, I developed a model with ANN algorithm to be able to predict these customers before they leave the bank so that the company can take appropriate measures.
 - Developed an Artificial Neural Network (ANN) to predict customers at risk of leaving the bank, achieving 98% accuracy and a test score of 94%.
