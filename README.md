@@ -1,7 +1,6 @@
 # hi,I'm Prisca!
 ## Data Scientist
-##### 📧 oluomachiukanwa32@gmail.com   📱 +2347037567690 , 🇳🇬 lagos,nigeria 
-🔗 https://www.linkedin.com/in/prisca-ukanwa-800a1117a/
+##### 📧 oluomachiukanwa32@gmail.com   📱 +2347037567690  🔗 https://www.linkedin.com/in/prisca-ukanwa-800a1117a/
 
 # Skills
 - Programming Languages: Python, SQL
