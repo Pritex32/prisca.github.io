@@ -22,7 +22,7 @@
 - KNN performed best, with a training score of 0.88 and a test score of 0.72.
 -	Tools used: Pandas,Python,Sklearn,Matplotlib, Seaborn
 
-![](house trend.jpg)
+
 ![](https://github.com/Pritex32/prisca.github.io/blob/main/house%20trend%20pie.jpg)
 
 ## [Bank-Customer Prediction]( Pritex32/pritex_project (github.com))
@@ -33,8 +33,11 @@ This dataset is about determining the customers who wants to leave the bank and 
 -	The model helps the company take timely action, leading to a potential increase in customer retention by 15%.
 -	Tools: Python, Pandas, Scikit-Learn, Keras.
 
-![](bank customer.jpg)
+
 ![](https://github.com/Pritex32/prisca.github.io/blob/main/bank%20customer.jpg)
+
+
+https://github.com/Pritex32/lung-cancer-prediction
 
 # Education
 - Bachelor of Science                                                                             
