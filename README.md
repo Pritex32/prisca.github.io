@@ -40,16 +40,19 @@ This dataset is about determining the customers who wants to leave the bank and 
 
 ## [Lung Cancer Prediction and Analysis ](https://github.com/Pritex32/lung-cancer-prediction)                                Sep 26, 2024
 
-The goal of this project is to develop customer segmentation to define a marketing strategy 
-based on the behavior of around 9000 active credit card holders over the last six months. The dataset contains 18 behavioral variables.
-Each cluster is analyzed based on mean values of selected features:
--	Cluster 0: High balance, infrequent purchases, and frequent advance payments. Contributes 7.4% to company sales.
--	Cluster 1: Highest purchases, frequent transactions, main source of company sales, but no advance payments.
--	Cluster 2: Moderate purchases, contributes 25.2% to sales, low credit limit, and no advance payments.
--	Cluster 3: Lowest balance and purchases, infrequent transactions, 5.1% contribution to sales.
-#### Recommendation:	
--	For Clusters 0 and 3: will encourage purchases through discounts, promotions, and personalized marketing communications.
--	For Clusters 1 and 2: company should Increase their credit limits and offer bonuses to stimulate more spending.
+3 models were built in order to choose the model that best fit the prediction.
+- Random Forest (Accuracy: 99.5% on training set, 85.7% on test set). Naive Bayes (Accuracy: 86.8% on
+training set, 83.9% on test set). Logistic Regression (Accuracy: 91.8% on training set, 83.9% on test set).
+- Logistic Regression was chosen due to its performance and fit in the training set and validation set .
+- Logistic Regression was chosen as the final model, considered to fit well for lung cancer detection.
+- The model aims to assist hospitals or individuals in detecting early-stage lung cancer, potentially preventing
+worse outcomes .
+- The model will enable the employees to easily check and admit lung cancer patient by inputing few features
+into the model.
+- If the model were to be deployed to individuals, it will enable individuals to quickly check and monitor their
+health .
+- Library Used: Pandas,matplotlib,Seaborn,sklearn
+  
 
 
 ## Education
