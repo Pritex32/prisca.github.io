@@ -55,7 +55,7 @@ health .
 - Library Used: Pandas,matplotlib,Seaborn,sklearn
   
 ![](cancer patient.jpg)
-![](cancer patient 2.png)
+![](cancer patient 2.jpg)
 
 
 ## Education
