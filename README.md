@@ -13,7 +13,7 @@
 - Other Skills: Data Cleaning, Model Evaluation,Web scrapping, Model Deployment,Hypothesis testing
 
 # Projects
-## [Gurgaon,india House Prediction](Pritex32/Gurgoan-house-price-prediction (github.com))                      Sep 21,2024
+## [Gurgaon,india House Prediction](Pritex32/Gurgoan-house-price-prediction (github.com))                      (Sep 21,2024)
 - For this data, i used features such as  price, price_per_sqft, bedRoom, balcony, to analyze and predict house prices in Gurgaon.
 - which helps assess risks associated with property investments. it enhances efficiency by automating the price prediction process, allowing for quicker responses in fast-paced markets. predictive models contribute to a better understanding of economic conditions through housing trends.
 - Data cleaning steps involving  removing null values and handling duplicates.Outliers in features like balcony, bedRoom, price_per_sqft, and price were treated using interquartile range (IQR) method.
@@ -26,7 +26,7 @@
 ![](house trend pie.jpg)
 
 
-## [Bank-Customer Prediction]( Pritex32/pritex_project (github.com))                                             Sep 13,2024
+## [Bank-Customer Prediction]( Pritex32/pritex_project (github.com))                                             (Sep 13,2024)
 This dataset is about determining the customers who wants to leave the bank and those who does’nt. To solve this problem, I developed a model with ANN algorithm to be able to predict these customers before they leave the bank so that the company can take appropriate measures.
 - Developed an Artificial Neural Network (ANN) to predict customers at risk of leaving the bank, achieving 98% accuracy and a test score of 94%.
 -	Preprocessed the dataset by handling missing values and outliers, improving model reliability.
@@ -39,7 +39,7 @@ This dataset is about determining the customers who wants to leave the bank and 
 
 
 
-## [Lung Cancer Prediction and Analysis ](https://github.com/Pritex32/lung-cancer-prediction)                                Sep 26, 2024
+## [Lung Cancer Prediction and Analysis ](https://github.com/Pritex32/lung-cancer-prediction)                                (Sep 26, 2024)
 
 3 models were built in order to choose the model that best fit the prediction.
 - Random Forest (Accuracy: 99.5% on training set, 85.7% on test set). Naive Bayes (Accuracy: 86.8% on
