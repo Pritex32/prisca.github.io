@@ -39,7 +39,7 @@ This dataset is about determining the customers who wants to leave the bank and 
 
 
 
-## [Lung Cancer Prediction and Analysis ](https://github.com/Pritex32/lung-cancer-prediction)                                (Sep 26, 2024)
+## [Lung Cancer Prediction and Analysis ](https://github.com/Pritex32/lung-cancer-prediction)      (Sep 26, 2024)
 
 3 models were built in order to choose the model that best fit the prediction.
 - Random Forest (Accuracy: 99.5% on training set, 85.7% on test set). Naive Bayes (Accuracy: 86.8% on
@@ -53,6 +53,7 @@ into the model.
 - If the model were to be deployed to individuals, it will enable individuals to quickly check and monitor their
 health .
 - Library Used: Pandas,matplotlib,Seaborn,sklearn
+  
 ![](cancer patient.png)
 ![](cancer patient 2.png)
 
