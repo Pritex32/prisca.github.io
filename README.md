@@ -52,8 +52,8 @@ into the model.
 - If the model were to be deployed to individuals, it will enable individuals to quickly check and monitor their
 health .
 - Library Used: Pandas,matplotlib,Seaborn,sklearn
-![](hcancer patient.png)
-![](https://github.com/Pritex32/lung-cancer-prediction/blob/main/cancer%20patient%202.png)
+![](cancer patient.png)
+![](cancer patient 2.png)
 
 
 ## Education
