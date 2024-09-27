@@ -34,7 +34,7 @@ This dataset is about determining the customers who wants to leave the bank and 
 -	The model helps the company take timely action, leading to a potential increase in customer retention by 15%.
 -	Tools: Python, Pandas, Scikit-Learn, Keras.
 
-![](
+![](bank customer.jpg)
 ![](bank customer2.jpg)
 
 
