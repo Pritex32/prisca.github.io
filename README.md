@@ -54,7 +54,7 @@ into the model.
 health .
 - Library Used: Pandas,matplotlib,Seaborn,sklearn
   
-![]([cancer patient.png](https://github.com/Pritex32/lung-cancer-prediction/blob/main/cancer%20patient.png))
+![](cancer patient.jpg)
 ![](cancer patient 2.png)
 
 
