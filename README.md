@@ -14,7 +14,7 @@
 - Model Development: Streamlit,fastapi,Django, AWS, Render, Streamlit cloud
 - Other Skills: Data Cleaning, Model Evaluation,Web scrapping, Model Deployment,Hypothesis testing
 
-# PROJECTS
+# [PROJECTS](https://github.com/Pritex32?tab=repositories)
 ## [Stock prediction App](https://github.com/Pritex32/forex-prediction-app-streamlit)                      (Sep 21,2024)
 I Developed a Stock Price Prediction App using Streamlit, TensorFlow, and Yahoo Finance API to forecast GBP/USD exchange rates. The app retrieves real-time and historical forex data, applies LSTM-based deep learning models, and provides daily and hourly price forecasts. Integrated interactive visualizations for trend analysis, moving averages, and forecast validation. Implemented data preprocessing, model evaluation, and caching mechanisms for efficient performance.
 
