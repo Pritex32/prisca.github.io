@@ -1,4 +1,4 @@
-# hi,I'm Prisca!
+# HI,I'm Prisca!
 ## Data Scientist
 ##### 📧 oluomachiukanwa32@gmail.com   📱 +2347037567690
 🔗 https://www.linkedin.com/in/prisca-ukanwa-800a1117a/
@@ -15,8 +15,8 @@
 - Other Skills: Data Cleaning, Model Evaluation,Web scrapping, Model Deployment,Hypothesis testing
 
 # PROJECTS
-## [Gurgaon,india House Prediction](Pritex32/Gurgoan-house-price-prediction (github.com))                      (Sep 21,2024)
-Developed a Stock Price Prediction App using Streamlit, TensorFlow, and Yahoo Finance API to forecast GBP/USD exchange rates. The app retrieves real-time and historical forex data, applies LSTM-based deep learning models, and provides daily and hourly price forecasts. Integrated interactive visualizations for trend analysis, moving averages, and forecast validation. Implemented data preprocessing, model evaluation, and caching mechanisms for efficient performance.
+## [Stock prediction App](https://github.com/Pritex32/forex-prediction-app-streamlit)                      (Sep 21,2024)
+I Developed a Stock Price Prediction App using Streamlit, TensorFlow, and Yahoo Finance API to forecast GBP/USD exchange rates. The app retrieves real-time and historical forex data, applies LSTM-based deep learning models, and provides daily and hourly price forecasts. Integrated interactive visualizations for trend analysis, moving averages, and forecast validation. Implemented data preprocessing, model evaluation, and caching mechanisms for efficient performance.
 
 ![Image](Download - Sublime Text and 18 more pages - Profile 1 - Microsoft​ Edge 3_2_2025 9_07_15 AM (2).png)
 
