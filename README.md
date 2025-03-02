@@ -3,27 +3,21 @@
 ##### 📧 oluomachiukanwa32@gmail.com   📱 +2347037567690
 🔗 https://www.linkedin.com/in/prisca-ukanwa-800a1117a/
 
-# Skills
+# WHAT I OFFER
 - Programming Languages: Python, SQL
 - Libraries : Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, 
-- Data Visualization: Matplotlib, Seaborn
-- Machine Learning: Supervised/Unsupervised learning, Deep Learning, NLP, Time Series Analysis, Clustering and Image Classification.
+- Data Visualization: Matplotlib, Seaborn,plotl
+- Machine Learning: Supervised/Unsupervised learning,NLP, Time Series Analysis, Clustering 
+- Deep Learning: LSTM, computer vision,cnn,Ann,Image classification,Object detection
 - Tools & Platforms: Jupyter Notebooks, Google Colab
-- Databases: MySQL
+- Databases: Progres Sql
+- Model Development: Streamlit,fastapi,Django, AWS, Render, Streamlit cloud
 - Other Skills: Data Cleaning, Model Evaluation,Web scrapping, Model Deployment,Hypothesis testing
 
-# Projects
+# PROJECTS
 ## [Gurgaon,india House Prediction](Pritex32/Gurgoan-house-price-prediction (github.com))                      (Sep 21,2024)
-- For this data, i used features such as  price, price_per_sqft, bedRoom, balcony, to analyze and predict house prices in Gurgaon.
-- which helps assess risks associated with property investments. it enhances efficiency by automating the price prediction process, allowing for quicker responses in fast-paced markets. predictive models contribute to a better understanding of economic conditions through housing trends.
-- Data cleaning steps involving  removing null values and handling duplicates.Outliers in features like balcony, bedRoom, price_per_sqft, and price were treated using interquartile range (IQR) method.
--	Linear Regression was initially used but gave a score of 0.52, showing moderate performance.
-- K-Nearest Neighbors (KNN) and Support Vector Regression (SVR) models were also tested.
-- KNN performed best, with a training score of 0.88 and a test score of 0.72.
--	Tools used: Pandas,Python,Sklearn,Matplotlib, Seaborn
+Developed a Stock Price Prediction App using Streamlit, TensorFlow, and Yahoo Finance API to forecast GBP/USD exchange rates. The app retrieves real-time and historical forex data, applies LSTM-based deep learning models, and provides daily and hourly price forecasts. Integrated interactive visualizations for trend analysis, moving averages, and forecast validation. Implemented data preprocessing, model evaluation, and caching mechanisms for efficient performance.
 
-![](house trend.jpg)
-![](house trend pie.jpg)
 
 
 ## [Bank-Customer Prediction]( Pritex32/pritex_project (github.com))                                             (Sep 13,2024)
