@@ -1,7 +1,7 @@
 # HI,I'm Prisca!
 ## Data Scientist
 ##### 📧 oluomachiukanwa32@gmail.com   📱 +2347037567690
-🔗 https://www.linkedin.com/in/prisca-ukanwa-800a1117a/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/prisca-ukanwa-800a1117a/)
 
 # WHAT I OFFER
 - Programming Languages: Python, SQL
@@ -60,8 +60,10 @@ health .
 - Faculty of Business Administration, department of Banking and Finance
 
 ## Certification                                                                           
-- Deep learning course certificate (Udemy)
-- Data science and AI machine learning Course (Udemy)
-- Python (Udemy)
+- 2025 Deploy ML Model in Production – [Udemy]
+- Deep Learning A_Z 2025: Neural networks, AI & Machine Learning – [Udemy]
+- SQL bootcamp-MySql for beginner to advanced – [Udemy]
+- Statistics and Hypothesis Testing for data science – [Udemy]
+
 
 
