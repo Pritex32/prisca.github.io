@@ -22,12 +22,14 @@ I Developed a Stock Price Prediction App using Streamlit, TensorFlow, and Yahoo 
 
 
 
-## [Mult Image Classification Model App ](Pritex32/multi-cancer-tumor-image-classification-models)                    (Sep 13,2024)  
+## [Multi Image Classification Model App ](Pritex32/multi-cancer-tumor-image-classification-models)                    (Sep 13,2024)  
 - Developed a convolutional neural network (CNN) model to classify lung cancer, brain tumors, and kidney stones with over 90% accuracy.
 - Utilized a dataset sourced from Kaggle, applying image preprocessing techniques to enhance model performance.
 - Built and deployed the model using Streamlit for real-time predictions, enabling early diagnosis and supporting healthcare professionals.
 - Designed the model as a decision-support tool to improve healthcare outcomes, reduce costs, and facilitate personalized treatment plans.
-- Deployed to streamlit cloud on the link ()
+- Deployed to streamlit cloud on the link (https://github.com/Pritex32/multi-cancer-tumor-image-classification-models)
+
+  
 ![Image](Download - Sublime Text and 18 more pages - Profile 1 - Microsoft​ Edge 3_2_2025 9_31_29 AM (2).png)
 
 
