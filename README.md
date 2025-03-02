@@ -28,7 +28,7 @@ I Developed a Stock Price Prediction App using Streamlit, TensorFlow, and Yahoo 
 - Built and deployed the model using Streamlit for real-time predictions, enabling early diagnosis and supporting healthcare professionals.
 - Designed the model as a decision-support tool to improve healthcare outcomes, reduce costs, and facilitate personalized treatment plans.
 - Deployed to streamlit cloud on the link ()
-![](bank customer.jpg)
+![Image](Download - Sublime Text and 18 more pages - Profile 1 - Microsoft​ Edge 3_2_2025 9_31_29 AM (2).png)
 
 
 
