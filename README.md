@@ -27,7 +27,7 @@ I Developed a Stock Price Prediction App using Streamlit, TensorFlow, and Yahoo 
 - Utilized a dataset sourced from Kaggle, applying image preprocessing techniques to enhance model performance.
 - Built and deployed the model using Streamlit for real-time predictions, enabling early diagnosis and supporting healthcare professionals.
 - Designed the model as a decision-support tool to improve healthcare outcomes, reduce costs, and facilitate personalized treatment plans.
-- Deployed to [streamlit cloud](https://github.com/Pritex32/multi-cancer-tumor-image-classification-models)
+- Deployed to [streamlit cloud](https://multi-cancer-tumor-image-classification-models-cexxm7g9a45cgga.streamlit.app/)
 
   
 ![Image](Download - Sublime Text and 18 more pages - Profile 1 - Microsoft​ Edge 3_2_2025 9_31_29 AM (2).png)
