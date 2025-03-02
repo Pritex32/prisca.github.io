@@ -10,7 +10,7 @@
 - Machine Learning: Supervised/Unsupervised learning,NLP, Time Series Analysis, Clustering 
 - Deep Learning: LSTM, computer vision,cnn,Ann,Image classification,Object detection
 - Tools & Platforms: Jupyter Notebooks, Google Colab
-- Databases: Progres Sql
+- Databases: Postgres Sql
 - Model Development: Streamlit,fastapi,Django, AWS, Render, Streamlit cloud
 - Other Skills: Data Cleaning, Model Evaluation,Web scrapping, Model Deployment,Hypothesis testing
 
