@@ -18,6 +18,8 @@
 ## [Gurgaon,india House Prediction](Pritex32/Gurgoan-house-price-prediction (github.com))                      (Sep 21,2024)
 Developed a Stock Price Prediction App using Streamlit, TensorFlow, and Yahoo Finance API to forecast GBP/USD exchange rates. The app retrieves real-time and historical forex data, applies LSTM-based deep learning models, and provides daily and hourly price forecasts. Integrated interactive visualizations for trend analysis, moving averages, and forecast validation. Implemented data preprocessing, model evaluation, and caching mechanisms for efficient performance.
 
+![Image](Download - Sublime Text and 18 more pages - Profile 1 - Microsoft​ Edge 3_2_2025 9_07_15 AM (2).png)
+
 
 
 ## [Bank-Customer Prediction]( Pritex32/pritex_project (github.com))                                             (Sep 13,2024)
