@@ -1,12 +1,12 @@
 # HI,I'm Prisca!
 ## Data Scientist
 ##### 📧 oluomachiukanwa32@gmail.com   📱 +2347037567690
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/prisca-ukanwa-800a1117a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/prisca-ukanwa-800a1117a/)  [![TikTok](https://img.shields.io/badge/TikTok-Profile-black?logo=tiktok)](https://www.tiktok.com/@tech_ice32?lang=en)
 
 # WHAT I OFFER
 - Programming Languages: Python, SQL
 - Libraries : Pandas, NumPy, Scikit-Learn, TensorFlow, Keras, 
-- Data Visualization: Matplotlib, Seaborn,plotl
+- Data Visualization: Matplotlib, Seaborn,plotly
 - Machine Learning: Supervised/Unsupervised learning,NLP, Time Series Analysis, Clustering 
 - Deep Learning: LSTM, computer vision,cnn,Ann,Image classification,Object detection
 - Tools & Platforms: Jupyter Notebooks, Google Colab
@@ -27,7 +27,7 @@ I Developed a Stock Price Prediction App using Streamlit, TensorFlow, and Yahoo 
 - Utilized a dataset sourced from Kaggle, applying image preprocessing techniques to enhance model performance.
 - Built and deployed the model using Streamlit for real-time predictions, enabling early diagnosis and supporting healthcare professionals.
 - Designed the model as a decision-support tool to improve healthcare outcomes, reduce costs, and facilitate personalized treatment plans.
-- Deployed to streamlit cloud on the link (https://github.com/Pritex32/multi-cancer-tumor-image-classification-models)
+- Deployed to [streamlit cloud](https://github.com/Pritex32/multi-cancer-tumor-image-classification-models)
 
   
 ![Image](Download - Sublime Text and 18 more pages - Profile 1 - Microsoft​ Edge 3_2_2025 9_31_29 AM (2).png)
