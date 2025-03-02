@@ -56,7 +56,6 @@ health .
 
 ## Education
 - Bachelor of Science                                                                             
-- GPA 3.5(Upper Division)
 - Faculty of Business Administration, department of Banking and Finance
 
 ## Certification                                                                           
