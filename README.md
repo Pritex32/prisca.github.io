@@ -22,16 +22,14 @@ I Developed a Stock Price Prediction App using Streamlit, TensorFlow, and Yahoo 
 
 
 
-## [Bank-Customer Prediction]( Pritex32/pritex_project (github.com))                                             (Sep 13,2024)
-This dataset is about determining the customers who wants to leave the bank and those who does’nt. To solve this problem, I developed a model with ANN algorithm to be able to predict these customers before they leave the bank so that the company can take appropriate measures.
-- Developed an Artificial Neural Network (ANN) to predict customers at risk of leaving the bank, achieving 98% accuracy and a test score of 94%.
--	Preprocessed the dataset by handling missing values and outliers, improving model reliability.
--	Implemented a feature selection process, reducing the feature set by 30%, which improved computation speed by 20%.
--	The model helps the company take timely action, leading to a potential increase in customer retention by 15%.
--	Tools: Python, Pandas, Scikit-Learn, Keras.
-
+## [Mult Image Classification Model App ](Pritex32/multi-cancer-tumor-image-classification-models)                    (Sep 13,2024)  
+- Developed a convolutional neural network (CNN) model to classify lung cancer, brain tumors, and kidney stones with over 90% accuracy.
+- Utilized a dataset sourced from Kaggle, applying image preprocessing techniques to enhance model performance.
+- Built and deployed the model using Streamlit for real-time predictions, enabling early diagnosis and supporting healthcare professionals.
+- Designed the model as a decision-support tool to improve healthcare outcomes, reduce costs, and facilitate personalized treatment plans.
+- Deployed to streamlit cloud on the link ()
 ![](bank customer.jpg)
-![](bank customer2.jpg)
+
 
 
 
