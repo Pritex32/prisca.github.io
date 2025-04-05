@@ -49,8 +49,10 @@ Developed and deployed a cloud-based inventory management system tailored to the
 
 - Supported over 5 businesses in optimizing their inventory operations.
 
-- Tools_used:  Python, supabase, Streamlit
-  [link](https://real-time-inventory-management-system-gory7ddwwnt2kncpkncqtj.streamlit.app/)
+- Tools_used:  Python, supabase, Streamlit.
+  
+[link:](https://real-time-inventory-management-system-gory7ddwwnt2kncpkncqtj.streamlit.app/)
+
 ![](Ads Manager - Manage ads - Accounts and 9 more pages - Profile 1 - Microsoft​ Edge 4_5_2025 5_08_11 AM.png)
 
 
