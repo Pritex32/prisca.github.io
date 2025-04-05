@@ -35,22 +35,22 @@ I Developed a Stock Price Prediction App using Streamlit, TensorFlow, and Yahoo 
 
 
 
-## [Lung Cancer Prediction and Analysis ](https://github.com/Pritex32/lung-cancer-prediction)      (Sep 26, 2024)
+## [Cloud Based Inventory Management System](https://github.com/Pritex32/real-time-inventory-management-system/)      (April 1st, 2025)
 
-3 models were built in order to choose the model that best fit the prediction.
-- Random Forest (Accuracy: 99.5% on training set, 85.7% on test set). Naive Bayes (Accuracy: 86.8% on
-training set, 83.9% on test set). Logistic Regression (Accuracy: 91.8% on training set, 83.9% on test set).
-- Logistic Regression was chosen due to its performance and fit in the training set and validation set .
-- Logistic Regression was chosen as the final model, considered to fit well for lung cancer detection.
-- The model aims to assist hospitals or individuals in detecting early-stage lung cancer, potentially preventing
-worse outcomes .
-- The model will enable the employees to easily check and admit lung cancer patient by inputing few features
-into the model.
-- If the model were to be deployed to individuals, it will enable individuals to quickly check and monitor their
-health .
-- Library Used: Pandas,matplotlib,Seaborn,sklearn
-  
-![](cancer patient.jpg)
+Developed and deployed a cloud-based inventory management system tailored to the operational structures of small to medium-sized businesses, including retail stores, supermarkets, warehouses, and pharmacies. The system offers real-time stock tracking, low-stock alerts, customizable inventory categories, reporting and analytics features, and secure data handling.
+
+- Designed with a user-friendly interface for easy adoption across teams.
+
+- Integrated automated alerts and reporting tools to improve efficiency and reduce stock-related losses.
+
+- Enabled remote access through secure cloud hosting, enhancing flexibility and data safety.
+
+- Gathered client requirements to deliver personalized inventory solutions.
+
+- Supported over 5 businesses in optimizing their inventory operations.
+
+- Toolsused:  Python, supabase, Streamlit
+[](cancer patient.jpg)
 ![](cancer patient 2.jpg)
 
 
