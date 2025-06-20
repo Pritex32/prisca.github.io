@@ -56,12 +56,12 @@ Developed and deployed a cloud-based inventory management system tailored to the
 ![](Ads Manager - Manage ads - Accounts and 9 more pages - Profile 1 - Microsoft​ Edge 4_5_2025 5_08_11 AM.png)
 
 
-## [Booking and Pricing System for Rocky Art Digital Studio]()
+## [Booking and Pricing System for Rocky Art Digital Studio](https://github.com/Pritex32/rocky_art_booking_service)
 Client: Rocky Art — A digital design company specializing in animation, motion graphics, and graphic design.
 
-## Problem Statement:
+- Problem Statement:
 'Rocky Art approached me with a major business challenge — they lacked a structured pricing system. As a result, potential customers found it difficult to understand the cost of services, leading to missed opportunities and reduced client engagement.'
-## My Solution:
+- My Solution:
 'To address this, I proposed and designed a booking and pricing system that not only streamlined customer interactions but also enhanced the studio’s professional image. The system allows clients to easily view service packages, get transparent pricing, and book consultations or projects with ease. It improved workflow, reduced friction in client communication, and helped Rocky Art manage operations more smoothly.'
 ![](IMG_20250620_082849.jpg)
 
